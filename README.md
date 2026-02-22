@@ -14,7 +14,7 @@ The project compares multiple machine learning models to identify the most accur
 
 5.Interpret feature importance
 
-Machine Learning Models Used
+Machine Learning Models Used:
 
 Logistic Regression
 
@@ -23,5 +23,13 @@ Decision Tree Classifier
 Random Forest Classifier
 
 Neural Network (Feedforward)
+
+Key Insights:
+
+Machine learning models can effectively predict heart disease risk
+
+Ensemble models like Random Forest often perform better
+
+Certain features such as chest pain type, cholesterol, and max heart rate are strong predictors
 
 The models achieved strong classification performance, demonstrating the effectiveness of machine learning in medical diagnosis support systems.
